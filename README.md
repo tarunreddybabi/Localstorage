@@ -1,0 +1,2 @@
+# Localstorage
+storage
